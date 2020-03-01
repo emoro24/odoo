@@ -1,0 +1,16 @@
+[submodule "OCA/partner-contact"]
+	path = OCA/partner-contact
+	url = git@github.com:OCA/partner-contact.git
+	branch = 13.0
+<<<<<<< HEAD
+[submodule "gestion-formation"]
+	path = gestion-formation
+	url = git@github.com:emoro24/odoo.git
+	branch = master-dev
+=======
+
+[submodule "OCA/social"]
+	path = OCA/social
+	url = git@github.com:OCA/social.git
+	branch = 13.0
+>>>>>>> d2570b6195ace5602a247e1be455bb0d2c14ea4c
