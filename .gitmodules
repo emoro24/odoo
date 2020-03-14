@@ -1,0 +1,4 @@
+[submodule "emoro24/gestion-formation"]
+	path = emoro24/gestion-formation
+	url = git@github.com:emoro24/gestion-formation.git
+	branch = feature_edof
