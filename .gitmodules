@@ -8,7 +8,7 @@
 	url = git@github.com:OCA/crm.git
 	branch = 17.0
 
-[submodule "emoro24/odoo-wedof"]
-	path = emoro24/odoo-wedof
-	url = git@github.com:emoro24/odoo-wedof.git
+[submodule "wedof"]
+	path = wedof
+	url = https://github.com/emoro24/odoo-wedof.git
 	branch = main
