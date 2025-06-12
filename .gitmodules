@@ -10,5 +10,5 @@
 
 [submodule "wedof"]
 	path = wedof
-	url = git@github.com:odoo-wedof.git
+	url = git@github.com:emoro24/odoo-wedof.git
 	branch = main
