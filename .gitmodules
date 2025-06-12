@@ -11,4 +11,4 @@
 [submodule "emoro24/odoo-wedof"]
 	path = emoro24/odoo-wedof
 	url = git@github.com:emoro24/odoo-wedof.git
-	branch = migration/odoo17
+	branch = main
