@@ -1,0 +1,4 @@
+[submodule "phonecalls"]
+	path = phonecalls
+	url = git@github.com:emoro24/odoo-phonecalls.git
+	branch = main
