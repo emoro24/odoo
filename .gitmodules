@@ -2,3 +2,8 @@
 	path = phonecalls
 	url = git@github.com:emoro24/odoo-phonecalls.git
 	branch = main
+
+[submodule "OCA/partner-contact"]
+	path = OCA/partner-contact
+	url = git@github.com:OCA/partner-contact.git
+	branch = 17.0
