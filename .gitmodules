@@ -1,14 +1,4 @@
-[submodule "OCA/partner-contact"]
-	path = OCA/partner-contact
-	url = git@github.com:OCA/partner-contact.git
-	branch = 17.0
-
-[submodule "OCA/crm"]
-	path = OCA/crm
-	url = git@github.com:OCA/crm.git
-	branch = 17.0
-
-[submodule "wedof"]
-	path = wedof
-	url = git@github.com:emoro24/odoo-wedof.git
+[submodule "phonecalls"]
+	path = phonecalls
+	url = git@github.com:emoro24/odoo-phonecalls.git
 	branch = main
