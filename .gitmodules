@@ -8,11 +8,6 @@
 	url = git@github.com:OCA/crm.git
 	branch = 17.0
 
-[submodule "wedof"]
-	path = wedof
-	url = git@github.com:emoro24/odoo-wedof.git
-	branch = main
-
 [submodule "phonecalls"]
 	path = phonecalls
 	url = git@github.com:emoro24/odoo-phonecalls.git
