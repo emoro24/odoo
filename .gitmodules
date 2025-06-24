@@ -1,0 +1,4 @@
+[submodule "discusshub/discuss_hub"]
+	path = discusshub/discuss_hub
+	url = git@github.com:discusshub/discuss_hub.git
+	branch = 18.0
